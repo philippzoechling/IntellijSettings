@@ -2,6 +2,22 @@
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:X:/CodeConventions für Eclipse/latest/06_Java_CodeStyle_Formatter.xml" />
   </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="http://atgrzs0021:9090">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc4dfdedf9edf9adfdddfdd</password>
+      <option name="jiraVersion" value="6.3.3" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>gschroettner</username>
+    </JIRA>
+  </component>
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
