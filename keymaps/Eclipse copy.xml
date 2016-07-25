@@ -10,6 +10,12 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
