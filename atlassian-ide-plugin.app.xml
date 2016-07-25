@@ -1,8 +1,15 @@
 <application>
   <component name="atlassian-ide-plugin">
+    <option name="bambooConfigurationData">
+      <BambooConfigurationBean>
+        <option name="bambooTooltipOption" value="All build failures and first build success" />
+      </BambooConfigurationBean>
+    </option>
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="false" />
+        <option name="checkNowButtonOption" value="STABLE_AND_SNAPSHOT" />
+        <option name="checkUnstableVersionsEnabled" value="true" />
         <option name="statsCountersMap">
           <map>
             <entry key="a" value="0" />
@@ -12,6 +19,7 @@
           </map>
         </option>
         <option name="uid" value="1469433842445" />
+        <option name="useIdeaProxySettings" value="false" />
       </GeneralConfigurationBean>
     </option>
   </component>
