@@ -1,0 +1,24 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:X:/CodeConventions für Eclipse/latest/06_Java_CodeStyle_Formatter.xml" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://atgrzs0021/svn/Sandbox" />
+        <option value="https://atgrzs0021/svn/Kunden" />
+        <option value="https://atgrzs0021/svn/trueAct" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://atgrzs0021/svn/Sandbox" />
+        <option value="https://atgrzs0021/svn/Kunden" />
+        <option value="https://atgrzs0021/svn/trueAct" />
+      </list>
+    </option>
+  </component>
+</application>

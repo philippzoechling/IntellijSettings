@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Compiler" />
+    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
