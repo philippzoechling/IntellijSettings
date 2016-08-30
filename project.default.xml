@@ -19,33 +19,13 @@
             <processorPath useClasspath="true" />
           </profile>
         </annotationProcessing>
-        <bytecodeTargetLevel target="1.8" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="C:/development/apache-maven-3.3.3" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
           </MavenGeneralSettings>
         </option>
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="guenther.schroettner" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>AngularJS</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -58,12 +38,13 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="C:/workspace/IntelliJ" />
-      </component>
       <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
@@ -143,53 +124,6 @@
           <listeners />
           <method />
         </configuration>
-        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-        </configuration>
-      </component>
-      <component name="SvnConfiguration" myUseAcceleration="nothing">
-        <configuration>C:\Users\gschroettner\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ArquillianSettingsConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
